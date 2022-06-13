@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<BODY BGCOLOR="EF3038">
+<h1 style="background-color: #1E90FF"><CENTER>ONE PUNCH MAN</h1>
+<MARQUEE><FONT FACE="IMPACT">¿QUE ES ONE PUNCH MAN?.</FONT></MARQUEE>
+<BODY TEXT="000000">
+&nbsp;
+
+<FONT FACE="COMIC SANS MS"> Es un webcómic de acción y comedia japonés, creado por el artista <EM>One</EM> e iniciado en 2009. El webcómic rápidamente ganó popularidad, llegando a alcanzar las 8 millones de visitas. La pronunciación de su nombre en japonés, "Wanpanman", es un juego de palabras basado en el personaje infantil Anpanman, siendo wanpan una contracción de wanpanchi (un golpe). La historia se centra en <EM>Saitama</EM>, un superhéroe calvo y extremadamente fuerte que se muestra abrumado por la ausencia de un verdadero desafío, y que continuamente busca a un oponente digno de su poder.</FONT>
+&nbsp;
+<P><FONT FACE="MONOSPACE">Una versión digital, ilustrada por <EM>Yusuke Murata</EM>, comenzó a publicarse en el sitio web de la revista Young Jump en 2012. Shueisha también publica el manga en físico. Fue licenciado en Estados Unidos por Viz media, y actualmente es publicado en la revista Weekly Shonen Jump Alpha.</FONT></P>
+
+<P><FONT FACE="TAHOMA">Una adaptación a serie de anime producida por el estudio Madhouse, fue emitida en Japón entre octubre y diciembre de 2015. El 25 de septiembre de 2017 se anunció que se cambiaría de director y de estudio de animación, siendo J.C.Staff la que se encargaría de la segunda temporada, que empezó a emitirse el 9 de abril de 2019 y finalizó el 2 de julio de 2019.</P></FONT>
+
+<DIV ALIGN="CENTER"><img src="ONE.jpg"style="width:500px;height:300px;" BORDER="5">
+
+&nbsp;
+
+<HR ALIGN="left"COLOR="	#9932CC" WIDTH="50%" SIZE="10">
+
+<h2><FONT COLOR="#FFFFFF"><ALIGN="LEFT"><u>personajes importantes de <i>ONE</I></U>
+</body>
+<FONT COLOR="#000000">
+
+<style>
+  table, th, td{
+	border:1px solid black;}
+</style>
+<table>
+<tr>
+ <TD COLSPAN="2">ESTOS SON LOS 10 PERSONAJES MAS FUERTES</TD>
+</TR>
+</TABLE>
+<style>
+  table, th, td{
+	border:1px solid black;}
+</style>
+<TABLE>
+<TR>
+
+  <td>10.</td>
+  
+  
+  
+  <td><big><B><FONT COLOR="White"><FONT FACE="COMIC SANS MS">Genos</FONT></big></td>
+  <TD><small>Este cyborg metálico ha demostrado en muchos enfrentamientos su capacidad de resistencia.Su sistema de genocidio virtual (VGS) le mostraron que tenía un 70 por ciento de posibilidades de victoria contra cualquier monstruo demoníaco a nivel desastre.</small></TD>
+  </tr>
+  
+<tr>
+  <td>9.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="IMPACT">Bang</FONT></big></td>
+  <TD><small>su nivel de poder aumenta exponencialmente cuando se enfada, convirtiéndolo en un adversario bastante temible que habría podido terminar con Rover si se lo hubiera tomado más en serio. También cabe destacar que es un experto en puntos débiles, técnica que ha usado para derrotar a uno de los personajes con una defensa más férrea, Darkshine.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>8.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="TIMES NEW ROMAN">Flashy Flash</FONT></big></td>
+  <TD><small>Flashy Flash es capaz de moverse aún más rápido para crear ilusiones de sí mismo y desencadenar un ataque brutal que casi ningún héroe o villano sería capaz de soportar. Si esto no te parece suficiente, incluso el mismísimo Garou reconoce que no habría tenido posibilidad de vencer a Flashy Flash de no haber evolucionado.</small></TD>
+  </tr>
+  
+  
+  <tr>
+  <td>7.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="HELVETICA">Ogon Seishi</FONT></big></td>
+  <TD><small>Ogon Seishi es la forma final de Kuroi Seshi, para la que este necesita amasar más de 10 trillones de células fusionadas a su cuerpo. Tanto es así que fue capaz de darle una buena tunda a una Tatsumaki debilitada y hasta resistir un ataque de Monster Garou a una velocidad realmente vertiginosa. A todo esto hay que sumar una gran resistencia a ataques psíquicos que lo convierten en un gran adversario a tener en cuenta.</small></TD>
+  </tr>
+
+<tr>
+  <td>6.</td>
+  <td><big><B><FONT COLOR="White">Tatsumaki</FONT></big></td>
+  <TD><small>fue capaz de derrotar, ella sola, 5 amenazas de Nivel Dragón sin sufrir demasiado, e incluso pudo sostener diversos ataques, ya debilitada, de enemigos como Kuroi Seshi, Ogon Seishi o Agua Natural Malvada. Sus potentes habilidades psíquicas son capaces de derrotar a numerosos monstruos inmediatamente, destruyendo de una sentada hasta 10.000 copias de Kuroi Seshi y pudiendo esquivar, pasivamente, numerosos ataques gracias a su potente barrera Esper.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>5.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="LUCIDA CONSOLE">Lord Boros</FONT></big></td>
+  <TD><small>Lord Boros es uno de los personajes con acceso a un nivel de poder muy superior al de casi todos los que componen esta lista. La última de sus alteraciones es capaz de lanzar ataques con la fuerza de meteoritos que lograron impactar sobre Saitama, haciéndole viajar hasta la Luna sin poder casi defenderse. También hay que tener en cuenta sus increíbles capacidades regenerativas en las que solo ha de usar energía almacenada, pudiendo así evitar ataques demoledores como los de Saitama. Así que se le considera el enemigo más fuerte.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>4.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="GEORGIA">Monster Garou</FONT></big></td>
+  <TD><small>Este lobo solitario es el responsable de haber terminado con Ogon Seishi de un plumazo, gracias a su capacidad para evolucionar y adaptarse al estilo de lucha de sus oponentes. Tanto es así, que sus transformaciones han ocasionado que solo Saitama sea capaz de plantarle cara sin temer un funesto desenlace e incluso ha logrado soportar puñetazos a dos manos del héroe. Es el único villano o personaje que ha logrado tal hito, convirtiéndolo en todo un portento, capaz incluso de regenerarse después de un cabezazo de Saitama.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>3.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="ARIAL">Atomic Samurai</FONT></big></td>
+  <TD><small>No sólo demuestra su fuerza en los enfrentamientos, sino que otros personajes hablan de las habilidades del héroe. Según Darkshine, si Garou luchara contra él, lo más probable es que muriera antes de poder mostrar cualquiera de sus técnicas. Si hubiera que destacar algunas habilidades de Atomic Samurai sin duda habría que hablar de su inmensa velocidad y sus reflejos.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>2.</td>
+  <td><big><B><FONT COLOR="White"><FONT FACE="CALIBRI">Blast</FONT></big></td>
+  <TD><small>Se trata del héroe profesional de rango 1 de la Clase S de la Asociación. Esto quiere decir que es considerado el segundo personaje más poderoso de One Punch Man. La serie no ofrece mucha información de este héroe, ya que lleva una vida muy discreta. No se sabe nunca su ubicación y pocos tienen la posibilidad de comunicarse con él. La propia Fubuki dice que Blast "se sienta en la cima del mundo de los héroes", poniéndole al mismo nivel que King (antes de saber su engaño). Entre sus hazañas, se cuenta que Blast mató sin esfuerzo a un monstruo gigante que podía atravesar puertas de acero reforzado.</small></TD>
+  </tr>
+  
+  <tr>
+  <td>1.</td>
+  <td><big><B><FONT COLOR="Gold "><FONT FACE="IMPACT">Saitama</FONT></big></td>
+  <TD><small>Tanto Boros como Garou no han podido hacer mella en Saitama, quien con una resistencia descomunal, ha sido capaz de resistir cualquier ataque en su contra y posee inmunidad contra ataques psíquicos.
+
+Pocas veces ha tenido que ponerse serio y usar técnicas que le hayan requerido un determinado esfuerzo y puede anular otros ataques usando la misma fuerza en sentido opuesto, lo que nos informa del gran control que Saitama tiene sobre su cuerpo.
+
+No sabemos si este anime va a seguir invocando la supremacía e invulnerabilidad de Saitama, pero está claro que, por el momento, nadie ha sido capaz (ni de lejos) de llegar al límite que él mismo ha marcado. Cabe esperar que algunos villanos como Garou sigan intentando alcanzar su nivel y hacerle el máximo daño, pero dudamos que sean muy capaces de provocarle un serio rasguño, ¿no crees?</small></TD>
+  </tr>
+  </table>
+  
+  
+  <video width="500" height="300" controls>
+  <source src="VIDEO.mp4" type="video/mp4">
+  <source src="VIDEO.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+<HR ALIGN="RIGHT"COLOR="Aquamarine" WIDTH="50%" SIZE="10">
+
+<H1 style="border:2px solid DodgerBlue;"><ALIGN="LEFT"><FONT COLOR="White"><S>QUIEN ES SAITAMA?</S></H1></FONT>
+<P><MARQUEE BGCOLOR="BlueViolet" DIRECTION=right>HISTORIA.</marquee></p>
+
+<B><FONT COLOR="Gold"><FONT FACE="ARIAL">No sabe sobre el pasado de Saitama. Según él, cuando era niño, pasaba mucho tiempo viendo programas de superhéroes y soñaba con que algún día poder convertirse en el mismo héroe que ellos.despues durante su epoca de la secundaria Saitama empezo a sentirse decepcionado desí mismo por ser débil y por sus peleas fallidas, comenzando a pensar en sí y en su futuro.</FONT></B>
+&nbsp;
+
+<h4><FONT COLOR="MediumVioletRed"><FONT FACE="BRUSH SCRIPT MT">Tres años antes del inicio de la trama, Saitama era un asalariado que constantemente buscaba empleo pero era rechazado. Un día, después de otra entrevista, Saitama regresaba a su casa, pero en el camino escuchó a la gente gritar que algo peligroso se avecinaba y que todos debían salvarse, pero continuó adelante y se encontró con un enorme monstruo con apariencia de cangrejo llamado Kanirante.</FONT></FONT></H4>
+
+<B><EM><FONT COLOR="MintCream">Tras una leve charla con él, este le permite huir ya que buscaba a un niño con la intención de matarlo ya que anteriormente le había hecho una broma, y luego desaparece. Después de un rato, Saitama se encuentra con un niño que jugaba a la pelota, recordando la descripción del mismo y la amenaza de Kanirante con cortarlo en pedacitos. Luego de tratar que el niño huyera, se enfrenta a Kanirante que decide matar a Saitama si no escapa. El monstruo golpea a Saitama un par de veces, diciendo que no es un héroe, pero solo lo hace reír y que no tiene ninguna posibilidad contra él. Sin embargo, Saitama ata su corbata en uno de sus ojos y lo jala, derrotando así al cangrejo.</EM></B>
+&nbsp;
+
+<h4><sub><B><FONT COLOR="SpringGreen "><FONT FACE="ARIAL NARROW">Después de esta pelea, Saitama decide convertirse en un poderoso superhéroe, comienza un programa de entrenamiento, que constaba de 100 flexiones, 100 abdominales, 100 sentadillas y 10 km de carrera todos los días. También comía tres veces al día, pero solo plátanos como desayuno y no usaba aire acondicionado para fortalecer su moral. </sub> Estas actividades eran muy intensas y le causaban dolores insoportables, como dolores musculares y hemorragias internas. Sin embargo, Saitama no se dio por vencido y siguió entrenando día tras día para convertirse en un superhéroe.</FONT></h4>
+
+<HR ALIGN="CENTER"COLOR="RebeccaPurple" WIDTH="70%" SIZE="20">
+
+<h2 style="background-color: RoyalBlue"><CENTER><FONT COLOR="MintCream">MANGA</FONT></h2>
+
+<p><a href="https://www.viz.com/one-punch-man">SITIO OFICIAL PARA COMPRAR LOS VOLUMENES</a></p>
+&nbsp;
+&nbsp;
+<FONT COLOR="BLACK">
+<h1 ALIGN="CENTER"style="border:2px solid DodgerBlue;"><FONT FACE="BRUSH SCRIPT MT">CANCION</FONT></h1>
+
+
+<P><B>THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero</B></P>
+<P ALIGN="CENTER"<B><FONT COLOR="PINK">Letras</B></P>
+<P ALIGN="CENTER"<B>ONE PUNCH!
+(Three! Two! One! Kill shot!)
+??! ??! ????!!
+???????? ????????? ???????
+ONE PUNCH! ??! ????!
+???!! ????!! ??!!
+Power! Get power! ????????
+HERO ??????? ????? ???????
+HERO ??? ???? ????
+(Nobody knows who he is.)
+?(??)?? ?????? ??????????
+HERO ??? ??????????? ??????
+??! Go on! ????!!
+???????? ??????? ???????!
+JUSTICE! ??! ????!
+????!! ????!! ??!!
+Power! Get power! ???????????!
+Power! Get power! ??????????!
+HERO ???? ???? ????????????
+HERO ?? ????? ????
+(Nobody knows who he is.)
+??? ???? ?????????
+HERO ??? ?????????? ??HERO
+?????? ??????(??)???
+????? ???? ????? ????
+?????? ???????
+HERO ??????? ????? ???????
+HERO ??? ???? ????
+(Nobody knows who he is.)
+??? ???? ?????????
+HERO ??? ?????????? ??HERO
+???HERO
+(I wana be a ?? HERO!)
+</FONT></B></P>
+<audio controls>
+  <source src="ONE.ogg" type="audio/ogg">
+  <source src="ONE.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<H2><FONT COLOR="MintCream"> ORDEN PARA VER OPM</H2>
+<UL TYPE=SQUARE>
+<LI>"El hombre más fuerte"</LI>
+<LI>"El androide solitario"</LI>
+</UL>
+<UL TYPE=DISC>
+<LI><SMALL>OVA 1: Una sombra que se esconde muy cerca</SMALL></LI>
+<LI>"El científico obsesivo"</LI>
+<LI><SMALL>OVA 2: El discípulo que es extremadamente poco hablador</SMALL></LI>
+</UL>
+<UL TYPE=CIRCLE>
+<LI>"El ninja moderno"</LI>
+<LI>"El maestro supremo"</LI>
+<LI><SMALL>OVA 3: El ninja demasiado complicado</SMALL></LI>
+<LI>"La ciudad aterradora»"</LI>
+</UL>
+
+
+<OL TYPE=A>
+<LI>"El discípulo supremo"</LI>
+<LI>OVA 4: El excesivamente insistente Bang</LI>
+</OL>
+
+<OL TYPE=a>
+<LI>"El Rey del Mar Profundo"</LI>
+<LI>"La justicia inflexible"</LI>
+</OL>
+<OL TYPE=¡>
+
+<LI>OVA 5: Las hermanas a las que les pasan muchas cosas</LI>
+<LI>"El pupilo incomparable"</LI>
+</OL>
+<OL TYPE=1>
+
+<LI>"El dominador del universo"</LI>
+<LI>"El héroe más fuerte"</LI>
+</OL>
+<OL TYPE=A>
+
+<LI><FONT COLOR="BLACK"> OVA 6: El caso del asesinato que era demasiado imposible</LI>
+<LI>OVA 0: Camino de héroe (Road to Hero)</LI>
+</OL>
+  </BODY>
+</html>
+
